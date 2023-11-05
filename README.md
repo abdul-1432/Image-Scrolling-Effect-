@@ -16,7 +16,7 @@ This repository contains a simple and elegant image scrolling effect implemented
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/image-scrolling-effect.git
+   git clone https://github.com/abdul-1432/Image-Scrolling-Effect-/tree/main
    ```
 
 2. **Open `index.html` in a Browser:**
@@ -42,6 +42,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to [Author Name] for inspiration and guidance.
 
-Enjoy the image scrolling effect! If you have any questions or suggestions, feel free to open an issue or reach out to us.
+Enjoy the image-scrolling effect! If you have any questions or suggestions, feel free to open an issue or reach out to us.
 
 Happy coding!
