@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple and elegant image scrolling effect implemented using HTML, CSS, and JavaScript. The goal of this project is to create a visually appealing way to showcase a collection of images with smooth scrolling transitions.
+This repository contains a simple and elegant image-scrolling effect implemented using HTML, CSS, and JavaScript. The goal of this project is to create a visually appealing way to showcase a collection of images with smooth scrolling transitions.
 
 ## Features
 
